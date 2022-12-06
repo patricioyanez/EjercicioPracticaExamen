@@ -5,10 +5,7 @@
  */
 package Modelo;
 
-/**
- *
- * @author patri
- */
-public class Mecanico extends Cliente{
+
+public class Mecanico extends Persona{
     
 }

@@ -5,10 +5,6 @@
  */
 package Modelo;
 
-/**
- *
- * @author patri
- */
-public class Cliente {
+public class Cliente  extends Persona {
     
 }

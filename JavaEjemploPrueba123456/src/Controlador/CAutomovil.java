@@ -5,10 +5,11 @@
  */
 package Controlador;
 
-/**
- *
- * @author patri
- */
-public class CAutomovil {
+public class CAutomovil implements IOperaciones {
+
+    @Override
+    public boolean grabar() {
+        return true;
+    }
     
 }

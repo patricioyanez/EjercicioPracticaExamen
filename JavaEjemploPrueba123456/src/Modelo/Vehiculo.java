@@ -5,10 +5,7 @@
  */
 package Modelo;
 
-/**
- *
- * @author patri
- */
+
 public class Vehiculo {
     
 }

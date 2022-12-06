@@ -5,13 +5,10 @@
  */
 package Controlador;
 
-
-public class CCliente implements IOperaciones {
-
-
-    @Override
-    public boolean grabar() {
-        return true;
-    }
-    
+/**
+ *
+ * @author patri
+ */
+public interface IOperaciones {
+    boolean grabar();
 }

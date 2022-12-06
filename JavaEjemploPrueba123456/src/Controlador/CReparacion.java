@@ -5,10 +5,12 @@
  */
 package Controlador;
 
-/**
- *
- * @author patri
- */
-public class CReparacion {
+public class CReparacion  implements IOperaciones{
+
+
+    @Override
+    public boolean grabar() {
+        return true;
+    }
     
 }
