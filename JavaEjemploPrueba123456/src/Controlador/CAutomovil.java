@@ -5,11 +5,8 @@
  */
 package Controlador;
 
-public class CAutomovil implements IOperaciones {
+public class CAutomovil {
 
-    @Override
-    public boolean grabar() {
-        return true;
-    }
+
     
 }

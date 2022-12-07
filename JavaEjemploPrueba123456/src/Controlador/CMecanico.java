@@ -5,12 +5,8 @@
  */
 package Controlador;
 
-public class CMecanico  implements IOperaciones{
+public class CMecanico  {
 
 
-    @Override
-    public boolean grabar() {
-        return true;
-    }
     
 }

@@ -6,12 +6,8 @@
 package Controlador;
 
 
-public class CCliente implements IOperaciones {
+public class CCliente {
 
 
-    @Override
-    public boolean grabar() {
-        return true;
-    }
     
 }

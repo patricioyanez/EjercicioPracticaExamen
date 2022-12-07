@@ -5,6 +5,11 @@
  */
 package Modelo;
 
-public class Cliente  extends Persona {
+public class Cliente  extends Persona implements IOperaciones {
+
+    @Override
+    public boolean grabar() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

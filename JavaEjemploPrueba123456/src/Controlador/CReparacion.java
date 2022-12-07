@@ -5,12 +5,8 @@
  */
 package Controlador;
 
-public class CReparacion  implements IOperaciones{
+public class CReparacion  {
 
 
-    @Override
-    public boolean grabar() {
-        return true;
-    }
     
 }
