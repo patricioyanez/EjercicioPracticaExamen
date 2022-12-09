@@ -8,8 +8,15 @@ package Modelo;
 public class Cliente  extends Persona implements IOperaciones {
 
     @Override
-    public boolean grabar() {
+    public void limpiar() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    @Override
+    public String imprimirDatos() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+ 
     
 }

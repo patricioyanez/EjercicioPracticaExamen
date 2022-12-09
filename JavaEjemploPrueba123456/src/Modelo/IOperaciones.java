@@ -10,5 +10,6 @@ package Modelo;
  * @author patri
  */
 public interface IOperaciones {
-    boolean grabar();
+    void limpiar();
+    String imprimirDatos();
 }
